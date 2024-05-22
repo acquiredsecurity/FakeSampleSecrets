@@ -1,0 +1,25 @@
+# Database configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=db_user_example
+DB_PASSWORD=Uj8mN!25jKle9$
+
+# API keys
+API_KEY_STRIPE=sk_test_4eC39HqLyjWDarjtT1zdp7dc
+API_KEY_GOOGLE=AIzaSyB1C0-UFDqzvQU4t6iR8i9T0Y9rXs
+API_KEY_AWS=AKIAIOSFODNN7EXAMPLE
+
+# OAuth tokens
+OAUTH_TOKEN_GITHUB=ghp_ea92b8fe3de5e648adf931d8e412a6a9836d
+OAUTH_TOKEN_TWITTER=A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1
+
+# SMTP configuration for sending emails
+SMTP_HOST=smtp.mailtrap.io
+SMTP_PORT=2525
+SMTP_USER=example_user
+SMTP_PASSWORD=E!vR#7xK2pN4qW
+
+
+# Placeholder values for testing
+PLACEHOLDER_SECRET_1=fhb24HJ*mcE!7fLk
+PLACEHOLDER_SECRET_2=kJ#f8eM2lW0$9vXj
